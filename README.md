@@ -1,7 +1,7 @@
 # Welcome to Global Day of CodeRetreat!
 Washington, DC Edition – Hosted at Excella’s Arlington Tech Exchange
 
-##What is Nova Code and Coffee
+## What is Nova Code and Coffee
 
 NoVA Code & Coffee is an informal get together to write some code in the morning. Saturday Morning to be Exact. We're going with saturday mornings because weekdays and evenings are full enough as it is. Why add to the chaos of user groups, soccer games, and lawn mowing? There are no requirements other than the willingness to sit down, pair up, and learn something new.
 
