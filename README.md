@@ -7,7 +7,8 @@ Washington, DC Edition – Hosted at [Excella](http://excella.com/)’s [Arlingt
 
 We'd love to see you connect with others all over the world during this event.
 
-* Handles: [@coderetreat](https://twitter.com/coderetreat), [@excellaco](https://twitter.com/excellaco)
+* Twitter Handles: [@coderetreat](https://twitter.com/coderetreat), [@excellaco](https://twitter.com/excellaco)
+* Hosts: [@thepatleong](https://twitter.com/thepatleong), [@sjkilleen](https://twitter.com/sjkilleen)
 * Hashtags: `#gdcr18`, `#excella`, `#atx`
 
 ## What is Nova Code and Coffee?
