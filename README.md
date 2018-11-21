@@ -37,3 +37,29 @@ Looking to experience more katas beyond Conway’s Game of Life? Here are a few 
 
 ## Questions & Answers
 We had some great questions and follow-up around the event. We'll try to capture them here. If we discussed a link that's missing or if you have a question, feel free to [submit an issue](https://github.com/excellalabs/gdcr2018/issues/new) and we'll do our best to respond.
+
+### What are your favorite vs code extensions?
+(Sean's response)
+
+* Firstly, if you haven’t already, check out https://vscodecandothat.com/ -- a great resource for tips & tricks.
+* I use an extension to watch remote files sometimes when I need to: https://seankilleen.com/2018/08/vscode-tip-watch-files/
+* VS Live Share – this is awesome, allows you to live code with one or more people remotely. Super for remote pairing / mobbing.
+* Docker: great extension; lets me easily see in a sidebar what containers are running, lets me quickly open a shell into them, etc.
+* GitLens: great UI integration of various pieces of git information
+* Azure Account: common sign-in / subscription management
+* Beautify: beautify code in place for VS Code
+* Npm intellisense
+
+The rest is some of the basics for support / linting / highlighting  for various languages: 
+
+* C#
+* Cypher Query Language
+* ESLint
+* Ionide-fsharp
+* Markdownlint
+* PowerShell
+* Python
+* Ruby
+* SQL Server
+* TSLint
+* Vetur 
