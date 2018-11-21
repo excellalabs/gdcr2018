@@ -13,7 +13,7 @@ We'd love to see you connect with others all over the world during this event.
 
 ## What is Nova Code and Coffee?
 
-NoVA Code & Coffee is an informal get together to write some code in the morning. Saturday Morning to be Exact. We're going with saturday mornings because weekdays and evenings are full enough as it is. Why add to the chaos of user groups, soccer games, and lawn mowing? There are no requirements other than the willingness to sit down, pair up, and learn something new.
+[NoVA Code & Coffee](http://novacodecoffee.com/) is an informal get together to write some code in the morning. Saturday Morning to be Exact. We're going with saturday mornings because weekdays and evenings are full enough as it is. Why add to the chaos of user groups, soccer games, and lawn mowing? There are no requirements other than the willingness to sit down, pair up, and learn something new.
 
 ## What is the Global Day of Code Retreat?
 
@@ -34,3 +34,6 @@ Looking to experience more katas beyond Conway’s Game of Life? Here are a few 
 ## More Links
 
 * [Wikipedia page on Conway’s Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+## Questions & Answers
+We had some great questions and follow-up around the event. We'll try to capture them here. If we discussed a link that's missing or if you have a question, feel free to [submit an issue](https://github.com/excellalabs/gdcr2018/issues/new) and we'll do our best to respond.
