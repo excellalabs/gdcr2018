@@ -38,6 +38,24 @@ Looking to experience more katas beyond Conway’s Game of Life? Here are a few 
 ## Questions & Answers
 We had some great questions and follow-up around the event. We'll try to capture them here. If we discussed a link that's missing or if you have a question, feel free to [submit an issue](https://github.com/excellalabs/gdcr2018/issues/new) and we'll do our best to respond.
 
+### What are some of the other MeetUps that Excella runs or participates in?
+Besides NoVA Code & Coffee, Excella sponsors, runs, or is heavily involved with the below meetups:
+
+* [.NET DC User Group](https://www.meetup.com/dotnetdc/)
+* [AngularDC](https://www.meetup.com/angularDC/)
+* [Tech Talk DC](https://www.meetup.com/TechTalkDC/)
+* [Arlington AWS](https://www.meetup.com/Arlington-AWS-Meetup/)
+* [Code for Good DC](https://www.meetup.com/Code-for-Good-DC/)
+* [Capital Area .NET](https://www.meetup.com/CapArea-Net/)
+* Ce[ntral Maryland Association of .NET professionals](https://www.meetup.com/CMAP-Online/)
+* [DC Conctinuous Delivery Group](https://www.meetup.com/DC-continuous-delivery/)
+* [DC Women in Agile](https://www.meetup.com/Women-in-Agile-DC-Metro/)
+* [DC Scrum User Group](https://www.meetup.com/DC-Scrum/)
+* [DevOps DC](https://www.meetup.com/DevOpsDC/)
+* [Data Viz DC](https://www.meetup.com/Data-Visualization-DC/)
+* [Games for Agility, Learning, and Engagement (GALE DC)](https://www.meetup.com/Games-for-Agililty-Learning-Engagement/)
+* [Microsoft Maniacs](https://www.meetup.com/Microsoft-Maniacs/)
+
 ### What are your favorite vs code extensions?
 (Sean's response)
 
